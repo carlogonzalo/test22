@@ -1,0 +1,96 @@
+{
+  "courses": [
+    {
+      "id": "2",
+      "title": "Bioinformatics for terrified",
+      "description": "What is bioinformatics and where does it fit with bench-based life science research?Find out more about bioinformatics tools and resources that are available and how you can start to apply them in your research.",
+      "overview": "This course is aimed at experimental or bench-based researchers working in the molecular life sciences who have little or no previous experience of using bioinformatics databases or tools. It will provide a broad overview of bioinformatics as a subject and the resources available publicly for researchers to access and use. An undergraduate knowledge of a subject related to the life sciences would be an advantage.",
+      "authors": [
+        {
+          "name": "Cath Brooksbank",
+          "profile_link": "https://www.ebi.ac.uk/about/people/cath-brooksbank"
+        },
+        {
+          "name": "Andrew Cowley",
+          "profile_link": "https://www.ebi.ac.uk/training/online/trainers/apc"
+        }
+      ],
+      "last_reviewed": "March 2018",
+      "time_to_complete": "3 hours",
+      "doi": "10.6019/TOL.BioinfTer-c_2016.00001.1",
+      "homepage_url": "https://dev.trainingcontent.embl.org/bioinformatics-terrified",
+      "course_image": "https://dev.trainingcontent.embl.org/sites/default/files/book-images/the_scream.jpg",
+      "type": "course",
+      "course_pages": [
+        {
+          "page_id": "5",
+          "page_title": "What is bioinformatics",
+          "page_description": "Put simply, bioinformatics is the science of storing, retrieving and analysing large amounts of biological information. It is a highly interdisciplinary field involving many different types of specialists, including biologists, molecular life scientists, computer scientists and mathematicians.The term bioinformatics was coined by Paulien Hogeweg and Ben Hesper to describe “the study of informatic processes in biotic systems” and it found early use when the first biological sequence data began to be shared. Whilst the initial analysis methods are still fundamental to many large-scale experiments in the molecular life sciences, nowadays bioinformatics is considered to be a much broader discipline, encompassing modelling and image analysis in addition to the classical methods used for comparison of linear sequences or three-dimensional structures (Figure 1).",
+          "page_url": "http://wwwdev.ebi.ac.uk/training-beta/online/courses/bioinformatics-terrified/what-bioinformatics/",
+          "page_created": "01-Jul-2020",
+          "page_modified": "23-Jul-2020",
+          "parent_id": "cover_page_2",
+          "menu_order": "1",
+          "type": "course_page"
+        },
+        {
+          "page_id": "8",
+          "page_title": "Who is bioinformatics for?",
+          "page_description": "The molecular life sciences have become increasingly data driven by and reliant on data sharing through open-access databases (1). This is as true of the applied sciences as it is of fundamental research. Furthermore, it is not necessary to be a bioinformatician to make use of bioinformatics databases, methods and tools. However, as the generation of large data-sets becomes more and more central to biomedical research, it’s becoming increasingly necessary for every molecular life scientist to understand what can (and, importantly, what cannot) be achieved using bioinformatics, and to be able to work with bioinformatics experts to design, analyse and interpret their experiments (Figure 2).",
+          "page_url": "http://wwwdev.ebi.ac.uk/training-beta/online/courses/bioinformatics-terrified/what-bioinformatics/who-bioinformatics/",
+          "page_created": "01-Jul-2020",
+          "page_modified": "23-Jul-2020",
+          "parent_id": "5",
+          "menu_order": "2",
+          "type": "course_page"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "ArrayExpress: Discover functional genomics data quickly and easily",
+      "description": "ArrayExpress is a database of functional genomics data. This course will give you an overview of how these data are stored in ArrayExpress and will teach you how to effectively search and retrieve data from the ArrayExpress website.",
+      "overview": "A basic understanding of microarray technology and its applications is beneficial. We recommend that you complete 'Functional genomics: an introduction to EMBL-EBI resources' before taking this course.",
+      "authors": [
+        {
+          "name": "Prakash Singh",
+          "profile_link": "https://www.ebi.ac.uk/about/people/prakash-singh"
+        },
+        {
+          "name": "Sandeep Kadam",
+          "profile_link": "https://www.ebi.ac.uk/about/people/sandeep-kadam"
+        }
+      ],
+      "last_reviewed": "June 2018",
+      "time_to_complete": "2 hours",
+      "doi": "10.6019/TOL.BioinfTer-c_2017.00001.2",
+      "homepage_url": "https://wwwdev.ebi.ac.uk/training-beta/online/courses/arrayexpress-discover-functional-genomics-data-qui/",
+      "course_image": "https://dev.trainingcontent.embl.org/sites/default/files/book-images/Screenshot%202019-12-20%20at%2015.22.16.png",
+      "type": "course",
+      "course_pages": [
+        {
+          "page_id": "5",
+          "page_title": "What is ArrayExpress",
+          "page_description": "ArrayExpress is one of the major public repositories for functional genomics datasets. Most of the data is genome-wide gene expression data, measured on microarray or next-generation sequencing (NGS) platforms. A range of DNA assays are also hosted by ArrayExpress, such as ChIP-seq or genotyping. The main object in ArrayExpress is the experiment. An experiment usually groups several assays belonging to one study or publication. Each experiment contains metadata describing the biological specimen and experimental procedures, as well as resulting data files (Figure 1). The definition of an assay depends on the experiment type. For microarray experiments an assay represents one hybridisation (of biological sample material to an array). For NGS experiments an assay is the read-out (sequencing) of one library.",
+          "page_url": "https://www.ebi.ac.uk/training-beta/online/courses/array-express-discover-functional-genomics-data-quickly-and-easily/what-is-arrayexpress/",
+          "page_created": "01-Jun-2020",
+          "page_modified": "23-Jun-2020",
+          "parent_id": "cover_page_19",
+          "menu_order": "1",
+          "type": "course_page"
+        },
+        {
+          "page_id": "8",
+          "page_title": "How are datasets submitted and stored in ArrayExpress?",
+          "page_description": "Being aware of how data is structured and stored in ArrayExpress makes it easier for you to search and retrieve relevant functional genomics data suitable for your research needs.<h3>Submission process</h3> The main route for direct submissions to ArrayExpress is via the submission tool Annotare. Users supply their files and metadata in a webform, from there the data is exported and stored in MAGE-TAB format (Figure 2). Data sets imported from other functional genomics databases are also converted into MAGE-TAB files for archiving.",
+          "page_url": "https://www.ebi.ac.uk/training-beta/online/courses/array-express-discover-functional-genomics-data-quickly-and-easily/how-are-datasets-submitted-and-stored-in-arrayexpress/",
+          "page_created": "01-Jun-2020",
+          "page_modified": "23-Jun-2020",
+          "parent_id": "cover_page_19",
+          "menu_order": "2",
+          "type": "course_page"
+        }
+      ]
+    }
+  ]
+}
